@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua; text-align: justify;
+}
+h1 {
+    background-color: brown; 
+}
+h2 {
+    text-transform: uppercase;
+}
+p {
+    text-align: center;
+}

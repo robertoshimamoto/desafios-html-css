@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.192);
+    padding: auto;
+    margin: auto; 
+    margin-top: 50px;          
+}
+.video {
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.493);
+}
+.desafio {
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.568); 
+}
+
